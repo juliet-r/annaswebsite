@@ -1,6 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Anna Richards"
+featured_image: '/background.jpg'
+description: "Travel writer & photographer"
+draft: false
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Anna Richards is a travel writer and photographer currently based in Cornwall.

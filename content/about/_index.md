@@ -1,8 +1,14 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+description: "Anna Richards is a travel writer and photographer currently based in Cornwall."
+featured_image: "/background.jpg" 
+draft: false
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/background.jpg" title="Example" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+
+
+Anna has written for The Great Outdoors, Run Wild and Wanderful. 
+
+In 2000, the Chilean government introduced Intercultural Bilingual Education, which recognised the need for Mapuche histories and knowledge to be taught and promoted within the official curriculum and educational system. Whilst acknowledging the benefits of Intercultural Bilingual Education, Webb and Radcliffe criticise the way in which this has been implemented. The current focus on assimilation of Mapuche individuals into “Chilean society” does not take into account the very different historical experiences between Mapuche communities and those of European descent in Chile, and ignores the impact that this has on social, economic and educational opportunities. IBE is insufficient in its inclusion of Mapuche language, which is always seen as secondary to Spanish and often to English, and Mapuche history, which is often represented either as an “alternative” narrative or told from a Western, white, or colonial perspective. Mapuche histories are presented as “Other”, or as an addition to an official curriculum that centers on the history, language, sciences and knowledge of a white Chilean society. 
+
