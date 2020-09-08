@@ -1,14 +1,11 @@
 ---
 title: "About"
-description: "Anna Richards is a travel writer and photographer currently based in Cornwall."
-featured_image: "/background.jpg" 
+description: "Anna Richards is a writer and photographer currently based in Cornwall."
+featured_image: "/mountainanna.jpg" 
 draft: false
 ---
-{{< figure src="/background.jpg" title="Example" >}}
 
+Hi, I’m Anna! I’m a writer, outdoor adventurer and photographer currently based in Cornwall.
 
-
-Anna has written for The Great Outdoors, Run Wild and Wanderful. 
-
-In 2000, the Chilean government introduced Intercultural Bilingual Education, which recognised the need for Mapuche histories and knowledge to be taught and promoted within the official curriculum and educational system. Whilst acknowledging the benefits of Intercultural Bilingual Education, Webb and Radcliffe criticise the way in which this has been implemented. The current focus on assimilation of Mapuche individuals into “Chilean society” does not take into account the very different historical experiences between Mapuche communities and those of European descent in Chile, and ignores the impact that this has on social, economic and educational opportunities. IBE is insufficient in its inclusion of Mapuche language, which is always seen as secondary to Spanish and often to English, and Mapuche history, which is often represented either as an “alternative” narrative or told from a Western, white, or colonial perspective. Mapuche histories are presented as “Other”, or as an addition to an official curriculum that centers on the history, language, sciences and knowledge of a white Chilean society. 
+{{<figure src="/mountainanna.jpg">}}
 
