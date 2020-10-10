@@ -1,5 +1,5 @@
 ---
-title: Contact me
+title: Contact 
 featured_image: "/background.jpg"
 omit-header-text: true
 description: If you'd like to get in touch, please use the contact form below or email me at annahrichards@gmail.com. 
