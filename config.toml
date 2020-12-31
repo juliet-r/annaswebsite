@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Anna Richards"
-
+title = ""
+custom_css ="css/custom.css"
 
 
 
@@ -21,8 +21,8 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  site_logo = "img/AR_monogrom.png"
+  description = ""
   facebook = ""
   twitter = "https://twitter.com/annahrichards"
   instagram = "https://instagram.com/annar0987?igshid=1828tk85zyrmd"
@@ -35,11 +35,13 @@ enableRobotsTXT = true
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = ""
+  background_color_class = "/static/main-photo.jpg"
+  featured_image = "img/main-photo.jpg"
   recent_posts_number = 2
   commentoEnable = false  
-  body_classes = "baskerville"
+  body_classes = "baskerville" 
+  background_image = "/main-photo.jpg"
+  custom_css = ["css/custom.css"]
  
  
  
